@@ -1,0 +1,18 @@
+.user-wrapper {
+  padding: 15px;
+}
+
+.user-image {
+  height: 40px;
+  width: 40px;
+  border-radius: 90px;
+  margin-top: 5px;
+}
+
+.user-heading {
+  font-size: 20px;
+}
+
+.user-description {
+  font-size: 13px;
+}
